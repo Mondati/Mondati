@@ -2,10 +2,9 @@
 Mi nombre es Agustín Mondati, desarrollador Backend.
 
 ## 🙋🏽‍♂️ Sobre mi:
-Estudiante de la carrera Certified Tech Developer y del programa ONE de Oracle orientado a backend.
+Desarrollador Backend con enfoque principal en Java + Spring como framework. Utilizo herramientas como Spring Boot, Spring Data, Spring Cloud, Microservicios, Java Persistence API (JPA) y Hibernate como ORM. Además, tengo experiencia en el desarrollo de APIs RESTful, gestionando dependencias con Maven, y aplico patrones de diseño como MVC y DTO. Asimismo, implemento el principio de Inyección de Dependencias (IoC). Mi metodología de trabajo se basa en prácticas ágiles, especialmente Scrum.
 
-Busco siempre trabajar en equipo, cooperando con todos, apoyando y aportando de la mejor manera posible, con gran satisfacción en aprender y ayudar.
-Aprender es parte de mi día a día y los desafíos me motivan a encontrar las mejores soluciones.
+En el ámbito de la arquitectura de microservicios con Spring Cloud, utilizo tecnologías y patrones de diseño como Eureka Server, Feign, Service Registry, Service Discovery, Load Balancer, Circuit Breaker, API Gateway y Config Server.
 
 ## 🌐 Portfolio:
 [Sitio web](https://mondati.github.io/Portfolio/)
