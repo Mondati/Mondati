@@ -54,6 +54,7 @@ Me apasiona construir APIs REST bien estructuradas y sistemas escalables. Tengo 
 |---|---|---|
 | [🛒 API Tienda Electrónica](https://github.com/Mondati/API-Tienda-Electronica) | Arquitectura de microservicios con API Gateway, Eureka, Feign y Docker | Spring Cloud · Docker · MySQL |
 | [🦷 API Clínica Odontológica](https://github.com/Mondati/Clinica-Odontologica) | API REST con autenticación por roles y frontend propio | Spring Security · H2 · Swagger |
+| [🍽️ DH Booking](https://github.com/Mondati/DH-Booking-Reservas) | Sistema de reservas gastronómicas con validación de fechas solapadas · Proyecto final grupal Digital House | Spring Security · MySQL · CORS |
 | [🛍️ API Gestión de Ventas](https://github.com/Mondati/API-Gestion-Clientes-Productos-Ventas) | CRUD con consultas de negocio y estadísticas de ventas | Spring Boot · MySQL · Swagger |
 | [🃏 Blackjack](https://github.com/Mondati/Blackjack) | Juego de escritorio con arquitectura MVC y tests unitarios | Java Swing · JUnit 5 · Maven |
 
