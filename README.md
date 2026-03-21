@@ -1,19 +1,65 @@
-## Hola 👋
-Mi nombre es Agustín Mondati, desarrollador Backend.
+# Hola, soy Agustín Mondati 👋
 
-## 🙋🏽‍♂️ Sobre mi:
-Desarrollador Backend con enfoque principal en Java + Spring como framework. Utilizo herramientas como Spring Boot, Spring Data, Spring Cloud, Microservicios, Java Persistence API (JPA) y Hibernate como ORM. Además, tengo experiencia en el desarrollo de APIs RESTful, gestionando dependencias con Maven, y aplico patrones de diseño como MVC y DTO. Asimismo, implemento el principio de Inyección de Dependencias (IoC). Mi metodología de trabajo se basa en prácticas ágiles, especialmente Scrum.
+Desarrollador Backend enfocado en **Java + Spring Boot**, actualmente cursando **Lic. en Informática y Desarrollo de Software** en la Universidad del Aconcagua.
 
-En el ámbito de la arquitectura de microservicios con Spring Cloud, utilizo tecnologías y patrones de diseño como Eureka Server, Feign, Service Registry, Service Discovery, Load Balancer, Circuit Breaker, API Gateway y Config Server.
+Me apasiona construir APIs REST bien estructuradas y sistemas escalables. Tengo experiencia práctica con arquitecturas de microservicios, seguridad con Spring Security y containerización con Docker.
 
-## 🌐 Portfolio:
-[Sitio web](https://mondati.github.io/Portfolio/)
+---
 
-## 🌐 Redes:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/agu.mondati) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/agustinmondati/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergio-agustin-mondati/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/agusmondati) 
+## 🧑‍💻 Sobre mí
 
-# 💻 Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+- 🎓 2° año — Lic. en Informática y Desarrollo de Software · Universidad del Aconcagua
+- 📜 **Professional Developer** · Digital House — 1.568 hs · Programa diseñado por Mercado Libre y Globant *(Feb 2024)*
+- 📜 **Programa Backend** · Oracle Next Education (ONE) + Alura — 331 hs *(Sep 2023)*
+- 📜 **Business Agility** · Oracle ONE + Alura *(Jun 2023)*
+- 🔭 Actualmente trabajando en proyectos personales para seguir creciendo
+- 📍 Mendoza, Argentina
 
-# 📧 Contacto:
-agustinmondati@gmail.com
+---
+
+## 🛠️ Tecnologías
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Bases de datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logoColor=white)
+
+**DevOps & Herramientas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [🛒 API Tienda Electrónica](https://github.com/Mondati/API-Tienda-Electronica) | Arquitectura de microservicios con API Gateway, Eureka, Feign y Docker | Spring Cloud · Docker · MySQL |
+| [🦷 API Clínica Odontológica](https://github.com/Mondati/Clinica-Odontologica) | API REST con autenticación por roles y frontend propio | Spring Security · H2 · Swagger |
+| [🛍️ API Gestión de Ventas](https://github.com/Mondati/API-Gestion-Clientes-Productos-Ventas) | CRUD con consultas de negocio y estadísticas de ventas | Spring Boot · MySQL · Swagger |
+| [🃏 Blackjack](https://github.com/Mondati/Blackjack) | Juego de escritorio con arquitectura MVC y tests unitarios | Java Swing · JUnit 5 · Maven |
+
+---
+
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustín_Mondati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-agustinmondati@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinmondati@gmail.com)
