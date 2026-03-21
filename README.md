@@ -61,5 +61,5 @@ Me apasiona construir APIs REST bien estructuradas y sistemas escalables. Tengo 
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustín_Mondati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustín_Mondati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-agustin-mondati/)
 [![Gmail](https://img.shields.io/badge/Gmail-agustinmondati@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinmondati@gmail.com)
