@@ -1,4 +1,4 @@
-# Hola, soy Agustín Mondati 👋
+# Hola, soy Agustín Mondati 
 
 Desarrollador Backend enfocado en **Java + Spring Boot**, actualmente cursando **Lic. en Informática y Desarrollo de Software** en la Universidad del Aconcagua.
 
@@ -6,18 +6,18 @@ Me apasiona construir APIs REST bien estructuradas y sistemas escalables. Tengo 
 
 ---
 
-## 🧑‍💻 Sobre mí
+##  Sobre mí
 
-- 🎓 2° año — Lic. en Informática y Desarrollo de Software · Universidad del Aconcagua
-- 📜 **Professional Developer** · Digital House — 1.568 hs · Programa diseñado por Mercado Libre y Globant *(Feb 2024)*
-- 📜 **Programa Backend** · Oracle Next Education (ONE) + Alura — 331 hs *(Sep 2023)*
-- 📜 **Business Agility** · Oracle ONE + Alura *(Jun 2023)*
-- 🔭 Actualmente trabajando en proyectos personales para seguir creciendo
-- 📍 Mendoza, Argentina
+-  2° año — Lic. en Informática y Desarrollo de Software · Universidad del Aconcagua
+-  **Professional Developer** · Digital House — 1.568 hs · Programa diseñado por Mercado Libre y Globant *(Feb 2024)*
+-  **Programa Backend** · Oracle Next Education (ONE) + Alura — 331 hs *(Sep 2023)*
+-  **Business Agility** · Oracle ONE + Alura *(Jun 2023)*
+-  Actualmente trabajando en proyectos personales para seguir creciendo
+-  Mendoza, Argentina
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Backend**
 
@@ -48,20 +48,20 @@ Me apasiona construir APIs REST bien estructuradas y sistemas escalables. Tengo 
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [🦈 SharkWare Gaming](https://github.com/Mondati/Sharkware-Gaming)<br>↳ [Front](https://github.com/Mondati/Sharkware-Gaming) · [API](https://github.com/Mondati/Sharkware-Gaming-Api) | Ecommerce gamer fullstack: catálogo, carrito, checkout con MercadoPago, panel admin con CRUD y chatbot IA · proyecto front + API | React · Spring Boot · MySQL · MercadoPago |
-| [🛒 API Tienda Electrónica](https://github.com/Mondati/API-Tienda-Electronica) | Arquitectura de microservicios con API Gateway, Eureka, Feign y Docker | Spring Cloud · Docker · MySQL |
-| [🦷 API Clínica Odontológica](https://github.com/Mondati/Clinica-Odontologica) | API REST con autenticación por roles y frontend propio | Spring Security · H2 · Swagger |
-| [🍽️ DH Booking](https://github.com/Mondati/DH-Booking-Reservas) | Sistema de reservas gastronómicas con validación de fechas solapadas · Proyecto final grupal Digital House | Spring Security · MySQL · CORS |
-| [🛍️ API Gestión de Ventas](https://github.com/Mondati/API-Gestion-Clientes-Productos-Ventas) | CRUD con consultas de negocio y estadísticas de ventas | Spring Boot · MySQL · Swagger |
-| [🃏 Blackjack](https://github.com/Mondati/Blackjack) | Juego de escritorio con arquitectura MVC y tests unitarios | Java Swing · JUnit 5 · Maven |
+| [SharkWare Gaming](https://github.com/Mondati/Sharkware-Gaming)<br>↳ [Front](https://github.com/Mondati/Sharkware-Gaming) · [API](https://github.com/Mondati/Sharkware-Gaming-Api) | Ecommerce gamer fullstack: catálogo, carrito, checkout con MercadoPago, panel admin con CRUD y chatbot IA · proyecto front + API | React · Spring Boot · MySQL · MercadoPago |
+| [API Tienda Electrónica](https://github.com/Mondati/API-Tienda-Electronica) | Arquitectura de microservicios con API Gateway, Eureka, Feign y Docker | Spring Cloud · Docker · MySQL |
+| [API Clínica Odontológica](https://github.com/Mondati/Clinica-Odontologica) | API REST con autenticación por roles y frontend propio | Spring Security · H2 · Swagger |
+| [DH Booking](https://github.com/Mondati/DH-Booking-Reservas) | Sistema de reservas gastronómicas con validación de fechas solapadas · Proyecto final grupal Digital House | Spring Security · MySQL · CORS |
+| [API Gestión de Ventas](https://github.com/Mondati/API-Gestion-Clientes-Productos-Ventas) | CRUD con consultas de negocio y estadísticas de ventas | Spring Boot · MySQL · Swagger |
+| [Blackjack](https://github.com/Mondati/Blackjack) | Juego de escritorio con arquitectura MVC y tests unitarios | Java Swing · JUnit 5 · Maven |
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustín_Mondati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-agustin-mondati/)
 [![Gmail](https://img.shields.io/badge/Gmail-agustinmondati@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinmondati@gmail.com)
